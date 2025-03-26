@@ -21,4 +21,3 @@ Find the oldest book in the table.
 
 Retrieve books grouped by genre and count how many books exist in each genre.-- select genre,count(genre) as TotalGen from books group by genre, TotalGen;
 
--*++*/=-0986    E   `   `2WEHJKLRE
