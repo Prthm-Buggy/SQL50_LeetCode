@@ -13,5 +13,6 @@
             "database": "testdb",
             "username": "root"
         }
-    ]
+    ],
+    "workbench.editor.openSideBySideDirection": "down"
 }
